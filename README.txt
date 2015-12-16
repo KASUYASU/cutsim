@@ -1,7 +1,9 @@
 
-Cutsim is very experimental at the moment!
+This is a revised Cutsim that can be used more practically.
 
-the code is divided into the following parts:
+5-Axis simulations are supported.   
+
+The code is divided into the following parts:
 
 g2m: calls the emc2 rs274 G-code interpreter and builds and produces a list of canonLine objects
 libcutsim: cutting-simulation library (octree stock-model, stock/tool volumes, isosurface algorithms)

@@ -1,5 +1,5 @@
 
-This is a revised Cutsim that can be used more practically.
+This is a revised aewallin/Cutsim that can be used more practically.
 
 5-Axis simulations are supported.   
 

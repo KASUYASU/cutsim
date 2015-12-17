@@ -37,11 +37,11 @@ Then, choose ngc files from the File-Open menu and press the 'Play' button. Mayb
 you will get the cutting result. If a collision is detected, Cutsim will 
 automatically pause its simulation. You can continue the process, by pressing 
 the 'Play' again. Some short cut keys are available. To get the result faster,
-press your 'A' key and make the animation disenable. 
+press your 'a' key and make the animation disenable. 
 
-'A' toggle the Animation Enable/Disable.
-'C' toggle the Axis Visible/Imvisible.
-'G' toggle the XY-Grid Visible/Imvisible.
-'S' Show the statistics in your console.
-'T' toggle the Tool Visible/Imvisible.
+ 'a' toggle the Animation Enable/Disable.
+ 'c' toggle the Axis Visible/Imvisible.
+ 'g' toggle the XY-Grid Visible/Imvisible.
+ 's' Show the statistics in your console.
+ 't' toggle the Tool Visible/Imvisible.
 
